@@ -5,6 +5,10 @@ Ensure dependancies are installed:
 ```sh
 pip3 install -r requirements.txt
 ```
+Set the OpenAI API key environment variable:
+```sh
+export OPENAI_API_KEY="<your_api_key>"
+```
 
 Run the app:
 ```sh
