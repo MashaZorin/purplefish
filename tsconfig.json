@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "target": "ES6",
+      "module": "ESNext",
+      "outDir": "./static",
+      "strict": true
+    },
+    "include": ["static/script.ts"],
+    "exclude": []
+  }
+  
